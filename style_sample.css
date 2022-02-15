@@ -16,6 +16,7 @@
     You can import a font from Google at https://fonts.google.com/
 */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 /* 
     The imported font should be applied to all body text.
@@ -43,7 +44,7 @@ h1 {
     background-color: yellow;
     color: black;
     display: inline-block;
-    font-family: 'Impact';
+    font-family: 'Impact', 'Anton';
     font-size: 64px;
 }
 
@@ -191,7 +192,7 @@ img {
     */
     display: inline-block;
     line-height: 50px;
-    font-family: Impact;
+    font-family: 'Impact', 'Anton';
 }
 
 /* 
