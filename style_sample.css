@@ -82,6 +82,11 @@ img {
     width:300px;
 }
 
+#cat {
+    height:20px;
+    width:20px;
+}
+
 /* 
     There is one white-div in our html_sample.html, which should have white 
     font. 
